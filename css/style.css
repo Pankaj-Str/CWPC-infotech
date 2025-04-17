@@ -4,3 +4,7 @@
 .theme_bg_color{
     background-color: #0b668e;
 }
+
+.link_p:hover{
+    background-color: aqua;
+}
